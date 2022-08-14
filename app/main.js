@@ -1,10 +1,3 @@
-
-
-const insertSort = () => {
-
-};
-
-/*
 const Game = require(`./game.js`);
 const config = require(`./config.js`);
 const checkBar = require(`./checkBar.js`)
@@ -23,5 +16,5 @@ const runBot = async (config) => {
     }
   }
 };
-*/
-// runBot(config);
+
+runBot(config);
